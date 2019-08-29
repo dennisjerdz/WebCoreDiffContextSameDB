@@ -11,7 +11,7 @@ MVC Project
 5 Add-Migration
 6 Update Database
 
-API Project
+API Project - https://docs.microsoft.com/en-us/ef/core/get-started/aspnetcore/existing-db
 
 7 Add ASP.net core Project w/ API references
 8 From Package Manager Console, set API project as Startup project 
