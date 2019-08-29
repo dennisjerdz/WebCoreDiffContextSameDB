@@ -1,0 +1,33 @@
+Goal:
+> Create a MVC app w/ entity framework, code-first database
+> Create asp.net Core API w/ separate entity framework context and use database above
+
+MVC Project
+
+1 Add MVC Project w/ Authentication
+2 Add Models
+3 Add Models to IdentityModels DbContext
+4 From Package Manager Console, Enable-Migrations
+5 Add-Migration
+6 Update Database
+
+API Project
+
+7 Add ASP.net core Project w/ API references
+8 From Package Manager Console, set API project as Startup project 
+9 Run this command, replace connection string with connection string from MVC project (check web.config of MVC project); 
+
+  Scaffold-DbContext "Server=(localdb)\mssqllocaldb;Database=Blogging;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
+
+10 To enable MVC Controllers, Add MVC Routing to Startup.cs > Configure function 
+
+  app.UseMvc(routes =>
+  {
+    routes.MapRoute("default", "{controller=Home}/{action=Index}/{id?}");
+  });
+
+11 Add dbcontext to be used; Inject the context to the container in Startup.cs ConfigureServices function
+Replace Context (Class) with the Context generated from Step 9.
+
+  var connection = @"Server=(localdb)\mssqllocaldb;Database=Blogging;Trusted_Connection=True;ConnectRetryCount=0";
+  services.AddDbContext<BloggingContext>(options => options.UseSqlServer(connection));

@@ -1,0 +1,327 @@
+C:\Users\JERDI2604\source\repos\Test\Test\bin\Test.dll.config
+C:\Users\JERDI2604\source\repos\Test\Test\bin\Test.dll
+C:\Users\JERDI2604\source\repos\Test\Test\bin\Test.pdb
+C:\Users\JERDI2604\source\repos\Test\Test\bin\roslyn\csc.exe
+C:\Users\JERDI2604\source\repos\Test\Test\bin\roslyn\csc.exe.config
+C:\Users\JERDI2604\source\repos\Test\Test\bin\roslyn\csc.rsp
+C:\Users\JERDI2604\source\repos\Test\Test\bin\roslyn\csi.exe
+C:\Users\JERDI2604\source\repos\Test\Test\bin\roslyn\csi.exe.config
+C:\Users\JERDI2604\source\repos\Test\Test\bin\roslyn\csi.rsp
+C:\Users\JERDI2604\source\repos\Test\Test\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\JERDI2604\source\repos\Test\Test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\JERDI2604\source\repos\Test\Test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\JERDI2604\source\repos\Test\Test\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\JERDI2604\source\repos\Test\Test\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\JERDI2604\source\repos\Test\Test\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\JERDI2604\source\repos\Test\Test\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\JERDI2604\source\repos\Test\Test\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\JERDI2604\source\repos\Test\Test\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\JERDI2604\source\repos\Test\Test\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\JERDI2604\source\repos\Test\Test\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\JERDI2604\source\repos\Test\Test\bin\roslyn\System.AppContext.dll
+C:\Users\JERDI2604\source\repos\Test\Test\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\JERDI2604\source\repos\Test\Test\bin\roslyn\System.Console.dll
+C:\Users\JERDI2604\source\repos\Test\Test\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\JERDI2604\source\repos\Test\Test\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\JERDI2604\source\repos\Test\Test\bin\roslyn\System.IO.Compression.dll
+C:\Users\JERDI2604\source\repos\Test\Test\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\JERDI2604\source\repos\Test\Test\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\JERDI2604\source\repos\Test\Test\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\JERDI2604\source\repos\Test\Test\bin\roslyn\System.IO.Pipes.dll
+C:\Users\JERDI2604\source\repos\Test\Test\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\JERDI2604\source\repos\Test\Test\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\JERDI2604\source\repos\Test\Test\bin\roslyn\System.Security.Claims.dll
+C:\Users\JERDI2604\source\repos\Test\Test\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\JERDI2604\source\repos\Test\Test\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\JERDI2604\source\repos\Test\Test\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\JERDI2604\source\repos\Test\Test\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\JERDI2604\source\repos\Test\Test\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\JERDI2604\source\repos\Test\Test\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\JERDI2604\source\repos\Test\Test\bin\roslyn\System.ValueTuple.dll
+C:\Users\JERDI2604\source\repos\Test\Test\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\JERDI2604\source\repos\Test\Test\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\JERDI2604\source\repos\Test\Test\bin\roslyn\System.Xml.XPath.dll
+C:\Users\JERDI2604\source\repos\Test\Test\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\JERDI2604\source\repos\Test\Test\bin\roslyn\vbc.exe
+C:\Users\JERDI2604\source\repos\Test\Test\bin\roslyn\vbc.exe.config
+C:\Users\JERDI2604\source\repos\Test\Test\bin\roslyn\vbc.rsp
+C:\Users\JERDI2604\source\repos\Test\Test\bin\roslyn\VBCSCompiler.exe
+C:\Users\JERDI2604\source\repos\Test\Test\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\JERDI2604\source\repos\Test\Test\bin\Antlr3.Runtime.dll
+C:\Users\JERDI2604\source\repos\Test\Test\bin\EntityFramework.dll
+C:\Users\JERDI2604\source\repos\Test\Test\bin\EntityFramework.SqlServer.dll
+C:\Users\JERDI2604\source\repos\Test\Test\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\JERDI2604\source\repos\Test\Test\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\JERDI2604\source\repos\Test\Test\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\JERDI2604\source\repos\Test\Test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\JERDI2604\source\repos\Test\Test\bin\Microsoft.Owin.dll
+C:\Users\JERDI2604\source\repos\Test\Test\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\JERDI2604\source\repos\Test\Test\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\JERDI2604\source\repos\Test\Test\bin\Microsoft.Owin.Security.dll
+C:\Users\JERDI2604\source\repos\Test\Test\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\JERDI2604\source\repos\Test\Test\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\JERDI2604\source\repos\Test\Test\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\JERDI2604\source\repos\Test\Test\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\JERDI2604\source\repos\Test\Test\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\JERDI2604\source\repos\Test\Test\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\JERDI2604\source\repos\Test\Test\bin\Newtonsoft.Json.dll
+C:\Users\JERDI2604\source\repos\Test\Test\bin\Owin.dll
+C:\Users\JERDI2604\source\repos\Test\Test\bin\System.Web.Helpers.dll
+C:\Users\JERDI2604\source\repos\Test\Test\bin\System.Web.Mvc.dll
+C:\Users\JERDI2604\source\repos\Test\Test\bin\System.Web.Optimization.dll
+C:\Users\JERDI2604\source\repos\Test\Test\bin\System.Web.Razor.dll
+C:\Users\JERDI2604\source\repos\Test\Test\bin\System.Web.WebPages.Deployment.dll
+C:\Users\JERDI2604\source\repos\Test\Test\bin\System.Web.WebPages.dll
+C:\Users\JERDI2604\source\repos\Test\Test\bin\System.Web.WebPages.Razor.dll
+C:\Users\JERDI2604\source\repos\Test\Test\bin\WebGrease.dll
+C:\Users\JERDI2604\source\repos\Test\Test\bin\System.Web.Helpers.xml
+C:\Users\JERDI2604\source\repos\Test\Test\bin\System.Web.Mvc.xml
+C:\Users\JERDI2604\source\repos\Test\Test\bin\System.Web.Optimization.xml
+C:\Users\JERDI2604\source\repos\Test\Test\bin\System.Web.Razor.xml
+C:\Users\JERDI2604\source\repos\Test\Test\bin\System.Web.WebPages.xml
+C:\Users\JERDI2604\source\repos\Test\Test\bin\System.Web.WebPages.Deployment.xml
+C:\Users\JERDI2604\source\repos\Test\Test\bin\System.Web.WebPages.Razor.xml
+C:\Users\JERDI2604\source\repos\Test\Test\bin\Newtonsoft.Json.xml
+C:\Users\JERDI2604\source\repos\Test\Test\bin\Antlr3.Runtime.pdb
+C:\Users\JERDI2604\source\repos\Test\Test\bin\EntityFramework.xml
+C:\Users\JERDI2604\source\repos\Test\Test\bin\EntityFramework.SqlServer.xml
+C:\Users\JERDI2604\source\repos\Test\Test\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\JERDI2604\source\repos\Test\Test\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\JERDI2604\source\repos\Test\Test\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\JERDI2604\source\repos\Test\Test\bin\Microsoft.Owin.xml
+C:\Users\JERDI2604\source\repos\Test\Test\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\JERDI2604\source\repos\Test\Test\bin\Microsoft.Owin.Security.xml
+C:\Users\JERDI2604\source\repos\Test\Test\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\JERDI2604\source\repos\Test\Test\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\JERDI2604\source\repos\Test\Test\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\JERDI2604\source\repos\Test\Test\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\JERDI2604\source\repos\Test\Test\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\JERDI2604\source\repos\Test\Test\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\JERDI2604\source\repos\Test\Test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\JERDI2604\source\repos\Test\Test\obj\Debug\Test.Migrations.initial.resources
+C:\Users\JERDI2604\source\repos\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\JERDI2604\source\repos\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\JERDI2604\source\repos\Test\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\JERDI2604\source\repos\Test\Test\obj\Debug\Test.dll
+C:\Users\JERDI2604\source\repos\Test\Test\obj\Debug\Test.pdb
+C:\Users\JERDI2604\source\repos\Test\Test\obj\Debug\Test.Migrations.initial2.resources
+C:\Users\JERDI2604\source\repos\Test\Test\obj\Debug\Test.Migrations.contact.resources
+C:\Users\JERDI2604\source\repos\Test\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Projects\source\repos\Test\Test\bin\Test.dll.config
+C:\Projects\source\repos\Test\Test\bin\Test.dll
+C:\Projects\source\repos\Test\Test\bin\Test.pdb
+C:\Projects\source\repos\Test\Test\bin\roslyn\csc.exe
+C:\Projects\source\repos\Test\Test\bin\roslyn\csc.exe.config
+C:\Projects\source\repos\Test\Test\bin\roslyn\csc.rsp
+C:\Projects\source\repos\Test\Test\bin\roslyn\csi.exe
+C:\Projects\source\repos\Test\Test\bin\roslyn\csi.exe.config
+C:\Projects\source\repos\Test\Test\bin\roslyn\csi.rsp
+C:\Projects\source\repos\Test\Test\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projects\source\repos\Test\Test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\source\repos\Test\Test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Projects\source\repos\Test\Test\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projects\source\repos\Test\Test\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Projects\source\repos\Test\Test\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projects\source\repos\Test\Test\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projects\source\repos\Test\Test\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Projects\source\repos\Test\Test\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Projects\source\repos\Test\Test\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Projects\source\repos\Test\Test\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projects\source\repos\Test\Test\bin\roslyn\System.AppContext.dll
+C:\Projects\source\repos\Test\Test\bin\roslyn\System.Collections.Immutable.dll
+C:\Projects\source\repos\Test\Test\bin\roslyn\System.Console.dll
+C:\Projects\source\repos\Test\Test\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Projects\source\repos\Test\Test\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Projects\source\repos\Test\Test\bin\roslyn\System.IO.Compression.dll
+C:\Projects\source\repos\Test\Test\bin\roslyn\System.IO.FileSystem.dll
+C:\Projects\source\repos\Test\Test\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Projects\source\repos\Test\Test\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Projects\source\repos\Test\Test\bin\roslyn\System.IO.Pipes.dll
+C:\Projects\source\repos\Test\Test\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projects\source\repos\Test\Test\bin\roslyn\System.Security.AccessControl.dll
+C:\Projects\source\repos\Test\Test\bin\roslyn\System.Security.Claims.dll
+C:\Projects\source\repos\Test\Test\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Projects\source\repos\Test\Test\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Projects\source\repos\Test\Test\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Projects\source\repos\Test\Test\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Projects\source\repos\Test\Test\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Projects\source\repos\Test\Test\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Projects\source\repos\Test\Test\bin\roslyn\System.ValueTuple.dll
+C:\Projects\source\repos\Test\Test\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Projects\source\repos\Test\Test\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Projects\source\repos\Test\Test\bin\roslyn\System.Xml.XPath.dll
+C:\Projects\source\repos\Test\Test\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Projects\source\repos\Test\Test\bin\roslyn\vbc.exe
+C:\Projects\source\repos\Test\Test\bin\roslyn\vbc.exe.config
+C:\Projects\source\repos\Test\Test\bin\roslyn\vbc.rsp
+C:\Projects\source\repos\Test\Test\bin\roslyn\VBCSCompiler.exe
+C:\Projects\source\repos\Test\Test\bin\roslyn\VBCSCompiler.exe.config
+C:\Projects\source\repos\Test\Test\bin\Antlr3.Runtime.dll
+C:\Projects\source\repos\Test\Test\bin\EntityFramework.dll
+C:\Projects\source\repos\Test\Test\bin\EntityFramework.SqlServer.dll
+C:\Projects\source\repos\Test\Test\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Projects\source\repos\Test\Test\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Projects\source\repos\Test\Test\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Projects\source\repos\Test\Test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projects\source\repos\Test\Test\bin\Microsoft.Owin.dll
+C:\Projects\source\repos\Test\Test\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Projects\source\repos\Test\Test\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Projects\source\repos\Test\Test\bin\Microsoft.Owin.Security.dll
+C:\Projects\source\repos\Test\Test\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Projects\source\repos\Test\Test\bin\Microsoft.Owin.Security.Google.dll
+C:\Projects\source\repos\Test\Test\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Projects\source\repos\Test\Test\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Projects\source\repos\Test\Test\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Projects\source\repos\Test\Test\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects\source\repos\Test\Test\bin\Newtonsoft.Json.dll
+C:\Projects\source\repos\Test\Test\bin\Owin.dll
+C:\Projects\source\repos\Test\Test\bin\System.Web.Helpers.dll
+C:\Projects\source\repos\Test\Test\bin\System.Web.Mvc.dll
+C:\Projects\source\repos\Test\Test\bin\System.Web.Optimization.dll
+C:\Projects\source\repos\Test\Test\bin\System.Web.Razor.dll
+C:\Projects\source\repos\Test\Test\bin\System.Web.WebPages.Deployment.dll
+C:\Projects\source\repos\Test\Test\bin\System.Web.WebPages.dll
+C:\Projects\source\repos\Test\Test\bin\System.Web.WebPages.Razor.dll
+C:\Projects\source\repos\Test\Test\bin\WebGrease.dll
+C:\Projects\source\repos\Test\Test\bin\System.Web.Helpers.xml
+C:\Projects\source\repos\Test\Test\bin\System.Web.Mvc.xml
+C:\Projects\source\repos\Test\Test\bin\System.Web.Optimization.xml
+C:\Projects\source\repos\Test\Test\bin\System.Web.Razor.xml
+C:\Projects\source\repos\Test\Test\bin\System.Web.WebPages.xml
+C:\Projects\source\repos\Test\Test\bin\System.Web.WebPages.Deployment.xml
+C:\Projects\source\repos\Test\Test\bin\System.Web.WebPages.Razor.xml
+C:\Projects\source\repos\Test\Test\bin\Newtonsoft.Json.xml
+C:\Projects\source\repos\Test\Test\bin\Antlr3.Runtime.pdb
+C:\Projects\source\repos\Test\Test\bin\EntityFramework.xml
+C:\Projects\source\repos\Test\Test\bin\EntityFramework.SqlServer.xml
+C:\Projects\source\repos\Test\Test\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Projects\source\repos\Test\Test\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Projects\source\repos\Test\Test\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Projects\source\repos\Test\Test\bin\Microsoft.Owin.xml
+C:\Projects\source\repos\Test\Test\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Projects\source\repos\Test\Test\bin\Microsoft.Owin.Security.xml
+C:\Projects\source\repos\Test\Test\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Projects\source\repos\Test\Test\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Projects\source\repos\Test\Test\bin\Microsoft.Owin.Security.Google.xml
+C:\Projects\source\repos\Test\Test\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Projects\source\repos\Test\Test\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Projects\source\repos\Test\Test\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Projects\source\repos\Test\Test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projects\source\repos\Test\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Projects\source\repos\Test\Test\obj\Debug\Test.Migrations.initial.resources
+C:\Projects\source\repos\Test\Test\obj\Debug\Test.Migrations.initial2.resources
+C:\Projects\source\repos\Test\Test\obj\Debug\Test.Migrations.contact.resources
+C:\Projects\source\repos\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Projects\source\repos\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Projects\source\repos\Test\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Projects\source\repos\Test\Test\obj\Debug\Test.dll
+C:\Projects\source\repos\Test\Test\obj\Debug\Test.pdb
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\Test.dll.config
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\Test.dll
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\Test.pdb
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\roslyn\csc.exe
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\roslyn\csc.exe.config
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\roslyn\csc.rsp
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\roslyn\csi.exe
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\roslyn\csi.exe.config
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\roslyn\csi.rsp
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\roslyn\System.AppContext.dll
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\roslyn\System.Collections.Immutable.dll
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\roslyn\System.Console.dll
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\roslyn\System.IO.Compression.dll
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\roslyn\System.IO.FileSystem.dll
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\roslyn\System.IO.Pipes.dll
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\roslyn\System.Security.AccessControl.dll
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\roslyn\System.Security.Claims.dll
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\roslyn\System.ValueTuple.dll
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\roslyn\System.Xml.XPath.dll
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\roslyn\vbc.exe
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\roslyn\vbc.exe.config
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\roslyn\vbc.rsp
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\roslyn\VBCSCompiler.exe
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\roslyn\VBCSCompiler.exe.config
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\Antlr3.Runtime.dll
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\EntityFramework.dll
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\EntityFramework.SqlServer.dll
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\Microsoft.Owin.dll
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\Microsoft.Owin.Security.dll
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\Microsoft.Owin.Security.Google.dll
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\Newtonsoft.Json.dll
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\Owin.dll
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\System.Web.Helpers.dll
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\System.Web.Mvc.dll
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\System.Web.Optimization.dll
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\System.Web.Razor.dll
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\System.Web.WebPages.Deployment.dll
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\System.Web.WebPages.dll
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\System.Web.WebPages.Razor.dll
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\WebGrease.dll
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\System.Web.Helpers.xml
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\System.Web.Mvc.xml
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\System.Web.Optimization.xml
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\System.Web.Razor.xml
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\System.Web.WebPages.xml
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\System.Web.WebPages.Deployment.xml
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\System.Web.WebPages.Razor.xml
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\Newtonsoft.Json.xml
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\Antlr3.Runtime.pdb
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\EntityFramework.xml
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\EntityFramework.SqlServer.xml
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\Microsoft.Owin.xml
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\Microsoft.Owin.Security.xml
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\Microsoft.Owin.Security.Google.xml
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Projects\Working - Core Plus Web Same DB\Test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projects\Working - Core Plus Web Same DB\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Projects\Working - Core Plus Web Same DB\Test\obj\Debug\Test.Migrations.initial.resources
+C:\Projects\Working - Core Plus Web Same DB\Test\obj\Debug\Test.Migrations.initial2.resources
+C:\Projects\Working - Core Plus Web Same DB\Test\obj\Debug\Test.Migrations.contact.resources
+C:\Projects\Working - Core Plus Web Same DB\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Projects\Working - Core Plus Web Same DB\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Projects\Working - Core Plus Web Same DB\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Projects\Working - Core Plus Web Same DB\Test\obj\Debug\Test.dll
+C:\Projects\Working - Core Plus Web Same DB\Test\obj\Debug\Test.pdb
